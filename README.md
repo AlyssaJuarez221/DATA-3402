@@ -21,3 +21,6 @@
  \
  **What are some of your favorite hobbies?**\
  Reading and cooking
+ 
+ **Link to class repository**\
+ https://github.com/UTA-DataScience/DATA3402.Spring.2023 
